@@ -12,4 +12,4 @@ Esto es una línea de `código`
 3. Third item  
 
 **Negrita**  
-(este es un añadido que esto metiendo)  
+(este es un añadido que estoy metiendo)  
