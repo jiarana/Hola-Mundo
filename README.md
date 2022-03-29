@@ -11,5 +11,3 @@ Esto es una línea de `código`
 2. Second item
 3. Third item  
 
-**Negrita**  
-(este es un añadido que estoy metiendo)  
